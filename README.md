@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="">
 </p>
 <h1 align="center">
   VJ FILE STORE BOT
@@ -7,7 +7,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Tech+VJ;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
-
+<!--
 ## Features
 
 <b><details><summary>Tap On Me For Bot Features</summary>
@@ -19,7 +19,7 @@
 - [x] Auto Delete Feature Added
 - [x] Custom Start Message With Picture And Buttons
 </b>
-</details>
+</details> !-->
 
 ## Environment Variables
 
@@ -42,6 +42,8 @@
 - `PORT` : This Variable Is Only For Render, Value IS `8080`
 </b>
 </details>
+
+<!--.
 
 ## See How Bot Look Like
 
@@ -110,4 +112,4 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 ### Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
-
+!-->
